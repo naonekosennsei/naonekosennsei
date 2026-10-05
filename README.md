@@ -20,6 +20,42 @@
 - Polyline / Spline DXF出力
 - 遺構・遺物の実測図作成支援
 
+## 3D復元例
+
+実際のPhotoMetによる3D復元例です。露頭・岩壁のような大規模対象から、小物まで処理できます。
+
+### 北川露頭
+
+<p align="center">
+  <img src="assets/kitagawa.jpg" width="95%" alt="北川露頭の3D復元">
+</p>
+
+### 天竜峡・岩壁
+
+<table>
+  <tr>
+    <td align="center"><b>Texture View</b></td>
+    <td align="center"><b>Mesh View</b></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/tenryukyo-texture.jpg" width="100%" alt="天竜峡 岩壁 テクスチャ表示"></td>
+    <td width="50%"><img src="assets/tenryukyo-mesh.jpg" width="100%" alt="天竜峡 岩壁 メッシュ表示"></td>
+  </tr>
+</table>
+
+### 小物復元
+
+<table>
+  <tr>
+    <td align="center"><b>Texture View</b></td>
+    <td align="center"><b>Mesh View</b></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/figure-texture.jpg" width="100%" alt="小物 テクスチャ表示"></td>
+    <td width="50%"><img src="assets/figure-mesh.jpg" width="100%" alt="小物 メッシュ表示"></td>
+  </tr>
+</table>
+
 ## Background
 
 - 考古学発掘調査
