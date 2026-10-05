@@ -36,5 +36,5 @@ Photogrammetry & measured drawing software for archaeological fieldwork.
 ### AIクリップ
 Illustrator上で、指定した枠を使って線を切るためのツール。
 
-### Nyaw_Name
+### NyawName
 [Releases / Download](https://github.com/naonekosennsei/Nyaw_Name/releases)
