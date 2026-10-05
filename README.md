@@ -37,4 +37,6 @@ Photogrammetry & measured drawing software for archaeological fieldwork.
 Illustrator上で、指定した枠を使って線を切るためのツール。
 
 ### NyawName
+考古学・発掘調査などで扱う大量写真を、確認しながら効率よく整理・一括リネームするためのWindowsツール。RAW/JPEG照合、連番・桁揃え、CSV対照表、PDF一覧作成などに対応。
+
 [Releases / Download](https://github.com/naonekosennsei/Nyaw_Name/releases)
